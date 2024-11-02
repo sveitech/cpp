@@ -1,0 +1,7 @@
+[requires]
+spdlog/1.14.1
+etl/20.39.4
+
+[generators]
+CMakeDeps
+CMakeToolchain

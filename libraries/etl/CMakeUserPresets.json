@@ -1,0 +1,9 @@
+{
+    "version": 4,
+    "vendor": {
+        "conan": {}
+    },
+    "include": [
+        "/home/daniel/projects/cpp/libraries/etl/build/CMakePresets.json"
+    ]
+}

@@ -37,6 +37,10 @@ int main() {
   // code.
   constexpr auto hello_world_easy_sc = "Hello world"_sc;
 
+  // The string only becomes part of the code once it is used.
   std::cout << hello_world_easy_sc.value << std::endl;
+
+  // This is also possible
+  std::cout << "this is a test"_sc.value << std::endl;
   return 0;
 }
